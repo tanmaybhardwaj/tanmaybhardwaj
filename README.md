@@ -44,8 +44,7 @@
  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" title="Kubernetes" alt="Kubernetes"/>
 
 ### :infinity: MLOps :
- <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" title="MLflow" alt="MLFlow" width="80" height="80"/>&nbsp;
-
+ <img src="https://miro.medium.com/max/1400/1*Xq385dWU0Nd305g6MOKwDQ.png" title="mlflow" alt="mlflow" width="70" height="40">&nbsp;
 
 </div>  
 
