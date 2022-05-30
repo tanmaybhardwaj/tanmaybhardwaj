@@ -43,6 +43,10 @@
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker"/>&nbsp;
  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" title="Kubernetes" alt="Kubernetes"/>
 
+### :infinity: MLOps :
+ <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" title="MLflow" alt="MLFlow" width="80" height="80"/>&nbsp;
+
+
 </div>  
 
 <hr></hr>
