@@ -15,7 +15,7 @@
 
 - ⚡ I'm a Machine Learning and Business Intelligence Engineer from India
 - 🌱 I’m currently learning MLOps and implementation of Deep Learning Technologies in the field of NLP & Text Analytics
-- 👯 I believe in Learning and Sharing and will be happy to collaborate on MLOps & Deep Learning Technologies
+- 👯 I believe in Learning and Sharing and will be happy to collaborate on Machine Learning, Deep Learning and MLOps
 - 📫 Please feel free to connect with me on LinkedIn
 - 😄 Pronouns: his/him
 
